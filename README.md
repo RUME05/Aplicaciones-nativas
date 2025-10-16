@@ -1,6 +1,6 @@
-# App de Fitness Nativa para Android 🏃‍♂️💨
+# App de Pasos Nativa para Android 🏃‍♂️💨
 
-Esta es una aplicación nativa para Android desarrollada como parte de una práctica de desarrollo móvil. La aplicación funciona como un rastreador de actividad física básico, utilizando los sensores y recursos nativos del dispositivo para monitorear los pasos y la ubicación del usuario.
+Esta es una aplicación nativa para Android. La aplicación funciona como un rastreador de actividad física básico, utilizando los sensores y recursos nativos del dispositivo para monitorear los pasos y la ubicación del usuario.
 
 
 
@@ -8,7 +8,7 @@ Esta es una aplicación nativa para Android desarrollada como parte de una prác
 
 ## 📋 Descripción
 
-**FitnessApp** es una herramienta sencilla para monitorear tu actividad diaria. Sus principales características son:
+Es una herramienta sencilla para monitorear tu actividad diaria. Sus principales características son:
 
 * **Contador de Pasos:** Utiliza el sensor de pasos del dispositivo para contar los pasos del usuario en tiempo real.
 * **Acumulación Diaria:** Los pasos se guardan en el dispositivo y se acumulan a lo largo del día, reiniciándose automáticamente a la medianoche.
@@ -35,16 +35,16 @@ Esta es una aplicación nativa para Android desarrollada como parte de una prác
     ```
 
 2.  **Abrir en Android Studio:**
-    * Abre Android Studio.
-    * Selecciona **"Open an Existing Project"**.
-    * Navega a la carpeta donde clonaste el repositorio y selecciónala.
+    * Abrir Android Studio.
+    * Seleccionar **"Open an Existing Project"**.
+    * Navegar a la carpeta donde se clono el repositorio y seleccionarla.
 
 3.  **Sincronizar Gradle:**
-    * Android Studio debería sincronizar el proyecto automáticamente. Si no, ve a **File > Sync Project with Gradle Files**.
+    * Android Studio debería sincronizar el proyecto automáticamente. Si no, **File > Sync Project with Gradle Files**.
 
 4.  **Ejecutar la Aplicación:**
-    * Conecta un dispositivo físico (recomendado para probar los sensores) o inicia un emulador.
-    * Presiona el botón de **"Run 'app'"** (▶️).
+    * Conectar un dispositivo físico (recomendado para probar los sensores) o iniciar en un emulador.
+    * Presionar el botón de **"Run 'app'"** (▶️).
 
 ---
 
