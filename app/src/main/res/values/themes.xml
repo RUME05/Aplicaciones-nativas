@@ -1,6 +1,22 @@
-<resources>
-    <style name="Theme.HerramientasNativasApp" parent="Theme.Material3.DayNight.NoActionBar">
-        <item name="colorPrimary">@color/ipn_guinda</item>
-        <item name="colorPrimaryVariant">@color/ipn_guinda_dark</item>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.HerramientasNativasApp" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.App.Guinda" parent="Base.Theme.HerramientasNativasApp">
+        <item name="colorPrimary">@color/guinda_primary</item>
+        <item name="colorOnPrimary">@color/guinda_onPrimary</item>
+        <item name="colorSecondary">@color/guinda_secondary</item>
+        <item name="colorOnSecondary">@color/guinda_onSecondary</item>
+        <item name="android:colorBackground">@color/guinda_background_light</item>
+        <item name="colorSurface">@color/guinda_surface_light</item>
+    </style>
+
+    <style name="Theme.App.Azul" parent="Base.Theme.HerramientasNativasApp">
+        <item name="colorPrimary">@color/azul_primary</item>
+        <item name="colorOnPrimary">@color/azul_onPrimary</item>
+        <item name="colorSecondary">@color/azul_secondary</item>
+        <item name="colorOnSecondary">@color/azul_onSecondary</item>
+        <item name="android:colorBackground">@color/azul_background_light</item>
+        <item name="colorSurface">@color/azul_surface_light</item>
     </style>
 </resources>

@@ -1,7 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.HerramientasNativasApp" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <style name="Theme.App.Guinda" parent="Base.Theme.HerramientasNativasApp">
+        <item name="colorPrimary">@color/guinda_primary</item>
+        <item name="colorOnPrimary">@color/guinda_onPrimary</item>
+        <item name="colorSecondary">@color/guinda_secondary</item>
+        <item name="colorOnSecondary">@color/guinda_onSecondary</item>
+        <item name="android:colorBackground">@color/guinda_background_dark</item>
+        <item name="colorSurface">@color/guinda_surface_dark</item>
+    </style>
+
+    <style name="Theme.App.Azul" parent="Base.Theme.HerramientasNativasApp">
+        <item name="colorPrimary">@color/azul_primary</item>
+        <item name="colorOnPrimary">@color/azul_onPrimary</item>
+        <item name="colorSecondary">@color/azul_secondary</item>
+        <item name="colorOnSecondary">@color/azul_onSecondary</item>
+        <item name="android:colorBackground">@color/azul_background_dark</item>
+        <item name="colorSurface">@color/azul_surface_dark</item>
     </style>
 </resources>
