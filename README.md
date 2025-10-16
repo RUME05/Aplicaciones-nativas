@@ -31,7 +31,7 @@ Es una herramienta sencilla para monitorear tu actividad diaria. Sus principales
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+    git clone [https://github.com/RUME05/Aplicaciones-nativas.git](https://github.com/RUME05/Aplicaciones-nativas.git)
     ```
 
 2.  **Abrir en Android Studio:**
